@@ -2,6 +2,28 @@
 
 ## 📱 Speech Analysis Application for Cognitive Health Detection and Monitoring
 
+## About
+DementiAnalytics+ is an innovative mobile application designed to assist in monitoring cognitive and emotional health through speech analysis. Using advanced speech recognition and natural language processing, our app provides insights into cognitive patterns by analyzing various aspects of speech, including word usage, emotional tone, and linguistic patterns.
+
+### Key Features
+- Real-time speech recording and analysis
+- Automatic speech-to-text transcription
+- Basic linguistic pattern recognition
+- Simple, elderly-friendly interface
+- Secure data handling
+
+### Technical Overview
+Built with React Native for cross-platform compatibility, the app integrates OpenAI's Whisper for accurate automatic speech recognition, particularly optimized for elderly speech patterns. Our backend, powered by Django, processes the audio data and provides detailed analysis through a secure API.
+
+### Target Users
+- Healthcare providers
+- Caregivers
+- Research institutions
+- Healthcare technology organizations
+
+### Vision
+Our goal is to create an accessible tool that aids in early detection and monitoring of cognitive health changes, providing valuable insights for healthcare providers and caregivers while maintaining user privacy and data security.
+
 ### Project Structure (subject to change)
 ```
 dementianalytics-mobile/
