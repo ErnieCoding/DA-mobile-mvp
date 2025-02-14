@@ -1,0 +1,8 @@
+#ignoring my virtual env setup
+venv/
+
+#ignoring node_modules from react project
+node_modules/
+
+#ignoring environment variables
+.env
