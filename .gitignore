@@ -2,7 +2,7 @@
 venv/
 
 #ignoring node_modules from react project
-node_modules/
+mobile/**/node_modules/
 
 #ignoring environment variables
 .env
