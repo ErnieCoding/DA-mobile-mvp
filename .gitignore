@@ -1,4 +1,4 @@
-#ignoring my virtual env setup
+#ignoring virtual env setup
 venv/
 
 #ignoring node_modules from react project
@@ -6,3 +6,6 @@ node_modules/
 
 #ignoring environment variables
 .env
+
+#ignoring python files
+__pycache__/
